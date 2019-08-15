@@ -1,6 +1,6 @@
 def speak_to_grandma
   if grandma == unable_to_hear
-    puts
+    puts HUH?! SPEAK UP, SONNY!
 end 
 # Write a speak_to_grandma method.
 
