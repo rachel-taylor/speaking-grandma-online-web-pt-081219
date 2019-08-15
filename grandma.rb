@@ -1,6 +1,6 @@
-def speak_to_grandma (phrase = "I love you Grandma")
-  if phrase do 
-    puts "HUH?! SPEAK UP, SONNY!"
+def speak_to_grandma 
+  if unable_to_hear do 
+    return "HUH?! SPEAK UP, SONNY!"
 end 
 # Write a speak_to_grandma method.
 
