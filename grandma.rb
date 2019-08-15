@@ -1,5 +1,5 @@
 def speak_to_grandma
-  if unable_to_hear
+  if grandma_unable_to_hear
 end 
 # Write a speak_to_grandma method.
 
