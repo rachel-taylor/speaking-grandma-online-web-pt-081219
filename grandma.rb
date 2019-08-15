@@ -1,4 +1,4 @@
-def speak_to_grandma (grandma_unable_to_hear)
+def speak_to_grandma 
   if grandma_unable_to_hear do 
     puts "HUH?! SPEAK UP, SONNY!"
 end 
