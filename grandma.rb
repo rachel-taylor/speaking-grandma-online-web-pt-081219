@@ -1,7 +1,9 @@
-def speak_to_grandma 
-  if hello.grandma do 
+def speak_to_grandma(string)
+  if string != string.upcase
     return "HUH?! SPEAK UP, SONNY!"
-  elseif 
+  elsif string.upcase
+    return "NO, NOT SINCE 1938!"
+  end
 end 
 # Write a speak_to_grandma method.
 
