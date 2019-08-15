@@ -1,7 +1,7 @@
 def speak_to_grandma 
-  if unable_to_hear do 
+  if hello.grandma do 
     return "HUH?! SPEAK UP, SONNY!"
-  else 
+  elseif 
 end 
 # Write a speak_to_grandma method.
 
